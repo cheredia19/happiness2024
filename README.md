@@ -1,7 +1,8 @@
 # Western Europe dominates the World Happiness Report
-_14 of the 20 countries labeled as the happiest in the world are located in the “old continent”_
+#### _14 of the 20 countries labeled as the happiest in the world are located in the “old continent”_
 
 *By César Heredia, data journalist*
+
 Do you want to be happy? Move to a Western Europe country. At least that is what is derived from the most recent World Happiness Report.
 
 According to the 2024 ranking, **Finland is the happiest country in the world**, followed by Denmark, Iceland, and Sweden. Israel breaks into fifth place, despite being in the midst of a bloody war. The top ten is completed by the Netherlands, Norway, Luxembourg, Switzerland, and Australia. As a consequence, 80% of the first 10 countries come from Western Europe.
