@@ -9,9 +9,9 @@ According to the 2024 ranking, **Finland is the happiest country in the world**,
 
 Finland occupies the top position for the seventh year in a row, according to [several media outlets]( https://www.google.com/search?client=opera&q=finland+is+world%27s+happiest+country+for+seventh+year+study&sourceid=opera&ie=UTF-8&oe=UTF-8).
 
-Per region, Australia/New Zealand (ANZ), and North America (Canada, United States) have the highest average score (6.9), followed closely by Western Europe (6.8), Central and Western Europe (6.2), and Latin America and the Caribbean (6.1). The less happy regions are located in Sub-Saharan Africa (4.3), and South Asia (3.9).
+Per region, Australia/New Zealand (ANZ), and North America (Canada, United States) have the highest average score (6.9), followed closely by Western Europe (6.8), Central and Western Europe (6.2), and Latin America and the Caribbean (6.1). The least happy regions are located in Sub-Saharan Africa (4.3), and South Asia (3.9).
 
-Costa Rica breaks into the 12th position on the list, which makes the Central American country the happiest in Latin America and the Caribbean. Mexico, Uruguay, El Salvador, and Chile follow the "ticos". The “less happy” of the region? Venezuela. 
+Costa Rica breaks into the 12th position on the list, which makes the Central American country the happiest in Latin America and the Caribbean. Mexico, Uruguay, El Salvador, and Chile follow the "ticos". The “least happy” of the region? Venezuela. 
 
 The South Americans, once a major player in the world oil industry, have succumbed to the last place of happiness in Latin America and the Caribbean due to the crisis resulting from 25 years of leftist/socialist governments. Curiously, other fellow “Bolivarian” countries accompany Venezuela: neighbors Colombia, and Ecuador. The latter is currently in a period of instability.
 
@@ -25,7 +25,7 @@ Only one place outside Europe, the Americas, MENA, or ANZ positions into the 30 
 
 Singapore, an island country located in the maritime heartland of Southeast Asia, lies in the 30th place, which makes it the top Asian country in the report. Three East-Asian outlets, Taiwan, Japan, and South Korea, follow the steps of the renowned city-state in the 31st, 51st, and 52nd places, respectively.
 
-China ranks 60th, while India is 126th. These countries are the two most populated in the world. South-Asian **Afghanistan is the “less happy”** of the countries listed in the report.
+China ranks 60th, while India is 126th. These countries are the two most populated in the world. South-Asian **Afghanistan is the “least happy”** of the countries listed in the report.
 
 Among the countries belonging to the Commonwealth of Independent States (CIS), Uzbekistan is the highest ranked (47th), followed by Kazakhstan (49th), Moldova (71st), and Russia (72nd). Ukraine, currently in a conflict with Russia since February 2022, ranks 105th).
 
