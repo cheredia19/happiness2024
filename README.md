@@ -33,7 +33,7 @@ Finally, 34 of the 35 Sub-Saharan African nations included in the study are loca
 
 <FlatUiTable
   data={{
-    url: 'whr2024.csv'
+    url: 'happiness.csv'
   }}
  />
 
