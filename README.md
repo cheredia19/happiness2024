@@ -33,7 +33,7 @@ Finally, 34 of the 35 Sub-Saharan African nations included in the study are loca
 
 <FlatUiTable
   data={{
-    csv: 'data.csv'
+    url: 'whr2024.csv'
   }}
  />
 
