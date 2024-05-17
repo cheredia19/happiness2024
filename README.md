@@ -55,7 +55,17 @@ Even though all the Western European countries (except Turkiye, which is in the 
 
 Only one place outside Europe, the Americas, MENA, or ANZ positions into the 30 happiest countries in the world.
 
-Singapore, an island country located in the maritime heartland of Southeast Asia, lies in the 30th place, which makes it the top Asian country in the report. Three East-Asian outlets, Taiwan, Japan, and South Korea, follow the steps of the renowned city-state in the 31st, 51st, and 52nd places, respectively.
+Singapore, an island country located in the maritime heartland of Southeast Asia, lies in the 30th place, which makes it the top Asian country in the report. 
+
+### World happiness report in Southeast Asia
+<PlotlyBarChart 
+  data={{ url: 'southeast_asia.csv' }}
+  title="Score per country"
+  xAxis="Country"
+  yAxis="Score" 
+/>
+
+Three East-Asian outlets, Taiwan, Japan, and South Korea, follow the steps of the renowned city-state in the 31st, 51st, and 52nd places, respectively.
 
 China ranks 60th, while India is 126th. These countries are the two most populated in the world. South-Asian **Afghanistan is the “least happy”** of the countries listed in the report.
 
