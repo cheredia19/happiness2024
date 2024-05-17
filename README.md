@@ -45,6 +45,14 @@ Among the countries located in Central and East Europe, Czechia (formerly Czech 
 
 Even though all the Western European countries (except Turkiye, which is in the 98th place) are located in the top half of the list, Italy (42nd) and Portugal (55th) are out of the top 40, Spain is out of the top 30 (36th), while Germany (24th) position themselves outside the top 20.
 
+### World happiness report in West Europe
+<PlotlyBarChart 
+  data={{ url: 'western_europe.csv' }}
+  title="Score per country"
+  xAxis="Country"
+  yAxis="Score" 
+/>
+
 Only one place outside Europe, the Americas, MENA, or ANZ positions into the 30 happiest countries in the world.
 
 Singapore, an island country located in the maritime heartland of Southeast Asia, lies in the 30th place, which makes it the top Asian country in the report. Three East-Asian outlets, Taiwan, Japan, and South Korea, follow the steps of the renowned city-state in the 31st, 51st, and 52nd places, respectively.
