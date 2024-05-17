@@ -35,6 +35,14 @@ Apart from Israel, Kuwait is the happiest country in the Middle East and North A
 
 Among the countries located in Central and East Europe, Czechia (formerly Czech Republic) appears as the happiest country. Next in line are Lithuania, Slovenia, and Kosovo, a State with limited recognition by the international community. Albania, North Macedonia, and Bulgaria occupy the lowest positions.
 
+### World happiness report in Central and East Europe
+<PlotlyBarChart 
+  data={{ url: 'central_east_europe.csv' }}
+  title="Score per country"
+  xAxis="Country"
+  yAxis="Score" 
+/>
+
 Even though all the Western European countries (except Turkiye, which is in the 98th place) are located in the top half of the list, Italy (42nd) and Portugal (55th) are out of the top 40, Spain is out of the top 30 (36th), while Germany (24th) position themselves outside the top 20.
 
 Only one place outside Europe, the Americas, MENA, or ANZ positions into the 30 happiest countries in the world.
