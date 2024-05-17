@@ -67,7 +67,15 @@ Singapore, an island country located in the maritime heartland of Southeast Asia
 
 Three East-Asian outlets, Taiwan, Japan, and South Korea, follow the steps of the renowned city-state in the 31st, 51st, and 52nd places, respectively.
 
-China ranks 60th, while India is 126th. These countries are the two most populated in the world. South-Asian **Afghanistan is the “least happy”** of the countries listed in the report.
+### World happiness report in East Asia
+<PlotlyBarChart 
+  data={{ url: 'east_asia.csv' }}
+  title="Score per country"
+  xAxis="Country"
+  yAxis="Score" 
+/>
+
+As seen above, China ranks 60th, while India is 126th. These countries are the two most populated in the world. South-Asian **Afghanistan is the “least happy”** of the countries listed in the report.
 
 Among the countries belonging to the Commonwealth of Independent States (CIS), Uzbekistan is the highest ranked (47th), followed by Kazakhstan (49th), Moldova (71st), and Russia (72nd). Ukraine, currently in a conflict with Russia since February 2022, ranks 105th).
 
