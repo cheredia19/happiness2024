@@ -15,6 +15,14 @@ Costa Rica breaks into the 12th position on the list, which makes the Central Am
 
 The South Americans, once a major player in the world oil industry, have succumbed to the last place of happiness in Latin America and the Caribbean due to the crisis resulting from 25 years of leftist/socialist governments. Curiously, other fellow “Bolivarian” countries accompany Venezuela: neighbors Colombia, and Ecuador. The latter is currently in a period of instability.
 
+## World happiness report in Latin America and the Caribbean
+<PlotlyBarChart 
+  data={{ url: 'latam.csv' }}
+  title="Score per country"
+  xAxis="Country"
+  yAxis="Score" 
+/>
+
 Apart from Israel, Kuwait is the happiest country in the Middle East and North Africa region (MENA) (13th place), followed by the United Arab Emirates and Saudi Arabia, two fellow oil producers and OPEC members. At the other end are located Lebanon, Yemen, and Egypt.
 
 Among the countries located in Central and East Europe, Czechia (formerly Czech Republic) appears as the happiest country. Next in line are Lithuania, Slovenia, and Kosovo, a State with limited recognition by the international community. Albania, North Macedonia, and Bulgaria occupy the lowest positions.
