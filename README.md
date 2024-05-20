@@ -71,6 +71,14 @@ As seen above, China ranks 60th, while India is 126th. These countries are the t
 
 Among the countries belonging to the Commonwealth of Independent States (CIS), Uzbekistan is the highest ranked (47th), followed by Kazakhstan (49th), Moldova (71st), and Russia (72nd). Ukraine, currently in a conflict with Russia since February 2022, ranks 105th).
 
+### World happiness report in the CIS
+<PlotlyBarChart 
+  data={{ url: 'cis.csv' }}
+  title="Score per country"
+  xAxis="Country"
+  yAxis="Score" 
+/>
+
 Finally, 34 of the 35 Sub-Saharan African nations included in the study are located in the bottom half. All but one, Mauritius, which is the best ranked in the 70th overall position. South Africa (83rd), and the Congo Republic (89th) follow the Mauritians, while the Congo Democratic Republic (139th), Sierra Leone (140th), and Lesotho (141st) are the worst placed in the World Happiness Report when it comes to the Sub-Saharan Africa.
 
 <FlatUiTable
