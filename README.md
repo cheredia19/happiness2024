@@ -1,7 +1,7 @@
 # Western Europe dominates the World Happiness Report
-#### _14 of the 20 countries labeled as the happiest in the world are located in the “old continent”_
+_- 14 of the 20 countries labeled as the happiest in the world are located in the “old continent”_
 
-*By César Heredia, data journalist*
+**By César Heredia, data journalist**
 
 Do you want to be happy? Move to a Western Europe country. At least that is what is derived from the most recent World Happiness Report.
 
