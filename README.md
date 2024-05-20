@@ -81,6 +81,16 @@ Among the countries belonging to the Commonwealth of Independent States (CIS), U
 
 Finally, 34 of the 35 Sub-Saharan African nations included in the study are located in the bottom half. All but one, Mauritius, which is the best ranked in the 70th overall position. South Africa (83rd), and the Congo Republic (89th) follow the Mauritians, while the Congo Democratic Republic (139th), Sierra Leone (140th), and Lesotho (141st) are the worst placed in the World Happiness Report when it comes to the Sub-Saharan Africa.
 
+### World happiness report in the CIS
+<PlotlyBarChart 
+  data={{ url: 'ssa.csv' }}
+  title="Score per country"
+  xAxis="Country"
+  yAxis="Score" 
+/>
+
+### Full ranking
+
 <FlatUiTable
   data={{
     url: 'happiness.csv'
